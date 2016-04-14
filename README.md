@@ -5,4 +5,4 @@ This is all part of a requirement for various projects in my CIT 281 class @ the
 
 Playing with pushing and mergin.
 
-![Hello World Image][images/hello.jpg]
+![Hello World Image](images/hello.jpg)
